@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:311042,50:6B21A8,100:9333EA&height=220&section=header&text=Deep%20Learning%20Projects&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Neural%20Networks%20%C2%B7%20CNNs%20%C2%B7%20Activation%20Functions%20%C2%B7%20Optimizer%20Analysis&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:311042,50:6B21A8,100:9333EA&height=220&section=header&text=Deep%20Learning%20Projects&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Neural%20Networks%20%7C%20CNNs%20%7C%20Activation%20Functions%20%7C%20Optimizer%20Analysis&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="Header Banner"/>
 </p>
 
 <p align="center">
